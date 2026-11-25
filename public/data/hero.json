@@ -1,0 +1,43 @@
+[
+    {
+         "description": "Interior for a modern home with a cozy living room, featuring a comfortable sofa, a coffee table, and warm lighting. The walls are adorned with contemporary art pieces, and there is a large window allowing natural light to fill the space.",
+    "location": "Modern Home",
+    "style": "Modern",
+    "elements": [
+        "Comfortable sofa",
+        "Coffee table",
+        "Warm lighting",
+        "Contemporary art pieces",
+        "Large window"
+    ],
+    "image": "/interior.jpg"
+    },
+
+    {
+        "Description": "A serene bedroom with a minimalist design, featuring a queen-sized bed with crisp white linens, a wooden nightstand, and a soft area rug. The room is decorated with potted plants and has a calming color palette of soft blues and grays.",
+        "location": "Modern Home",
+        "style": "Minimalist",
+        "elements": [
+            "Queen-sized bed",
+            "Crisp white linens",
+            "Wooden nightstand",
+            "Soft area rug",
+            "Potted plants"
+        ],
+        "image": "/outside.jpg"
+    },
+    {
+      "Description": "A serene bedroom with a minimalist design, featuring a queen-sized bed with crisp white linens, a wooden nightstand, and a soft area rug. The room is decorated with potted plants and has a calming color palette of soft blues and grays.",
+        "location": "Modern Home",
+        "style": "Minimalist",
+        "elements": [
+            "Queen-sized bed",
+            "Crisp white linens",
+            "Wooden nightstand",
+            "Soft area rug",
+            "Potted plants"
+        ],
+        "image": "/interior.jpg"
+ } 
+]
+
